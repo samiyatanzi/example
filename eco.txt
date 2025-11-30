@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title> PARK </title>
+</head>
+<body>
+<h1> ECO PARK </h1>	
+<p>A peaceful eco-park where a winding wooden boardwalk threads through wetlands alive with native grasses, wildflowers, and lily pads. Solar lanterns and wooden signage highlight sustainable design while visitors stroll, birdwatch, and picnic—celebrating biodiversity and gentle stewardship of the landscape.</p>
+<img src="ecopark.png" alt="Scene">
+</body>
+</html>
